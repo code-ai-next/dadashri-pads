@@ -1,9 +1,5 @@
-# Niruma
+# Pads
 
-::prose-ul
-  :::prose-th
-    ::::prose-td
-    Niruma na prem no re
-    ::::
-  :::
+::prose-li
+This is 1st sentence
 ::
